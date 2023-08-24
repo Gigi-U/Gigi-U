@@ -1,5 +1,6 @@
 
-# Hi 👋 there! <img width="911" alt="imgise" src="https://github.com/Gigi-U/Gigi-U/assets/87839629/b5a7e3af-ce61-49e5-a0b5-d06171137bd4">
+# Hi 👋 there! <img width="252" alt="imgise - copia" src="https://github.com/Gigi-U/Gigi-U/assets/87839629/4fe7f315-6d7b-4826-a045-35c4a510f32f">
+
 <h3 align="center">A passionate Software Developer from Argentina living in Buenos Aires</h3>
 
 ![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/906c1c38-f5fa-4042-bdd4-887f770af7b8)
