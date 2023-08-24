@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Gise!
-![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/0605858c-e341-4927-a8ee-31039aed6c02)
+
+![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/906c1c38-f5fa-4042-bdd4-887f770af7b8)
 
 <!--
 **Gigi-U/Gigi-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
