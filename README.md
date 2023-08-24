@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Gise!
+<img width="778" alt="imgise" src="https://github.com/Gigi-U/Gigi-U/assets/87839629/4acdb52a-94cf-44e7-b5de-5056d156c16c">
 
 ![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/906c1c38-f5fa-4042-bdd4-887f770af7b8)
 
