@@ -1,5 +1,5 @@
 
-# Hi 👋 there! ![Sin título-2](https://github.com/Gigi-U/Gigi-U/assets/87839629/adaec781-0c3d-4d88-ad93-60ae9756344a)
+# Hi 👋 there! ![Sin título-2](https://github.com/Gigi-U/Gigi-U/assets/87839629/f5777362-ff20-44bc-9275-f344c48048e7)
 
 <h3 align="center">A passionate Software Developer from Argentina living in Buenos Aires</h3>
 
