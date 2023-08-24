@@ -1,5 +1,5 @@
 
-# Hi 👋 there! <img width="252" alt="imgise - copia" src="https://github.com/Gigi-U/Gigi-U/assets/87839629/4fe7f315-6d7b-4826-a045-35c4a510f32f">
+# Hi 👋 there! ![Sin título-2](https://github.com/Gigi-U/Gigi-U/assets/87839629/adaec781-0c3d-4d88-ad93-60ae9756344a)
 
 <h3 align="center">A passionate Software Developer from Argentina living in Buenos Aires</h3>
 
