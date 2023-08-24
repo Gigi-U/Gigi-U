@@ -1,5 +1,5 @@
 ### Hi there 👋!
-<img width="900" alt="imgise" src="https://github.com/Gigi-U/Gigi-U/assets/87839629/8fc54047-5f35-44a4-be90-a60ba6d00d8f">
+<img width="911" alt="imgise" src="https://github.com/Gigi-U/Gigi-U/assets/87839629/b5a7e3af-ce61-49e5-a0b5-d06171137bd4">
 
 ![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/906c1c38-f5fa-4042-bdd4-887f770af7b8)
 
