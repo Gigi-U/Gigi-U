@@ -5,6 +5,12 @@
 
 ![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/906c1c38-f5fa-4042-bdd4-887f770af7b8)
 
+
+I specialize in Backend, but on some days, I like to dabble in full-stack projects. Right now, I'm diving into learning Go and honing my skills in infrastructure. Always up for a coding adventure!
+
+Looking forward to connecting and sharing experiences with fellow tech enthusiasts. If you have any cool projects or ideas, let's chat!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/giselaurriza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
