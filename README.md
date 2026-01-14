@@ -6,7 +6,7 @@
 ![dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a](https://github.com/Gigi-U/Gigi-U/assets/87839629/906c1c38-f5fa-4042-bdd4-887f770af7b8)
 
 
-I specialize in Backend, but on some days, I like to dabble in full-stack projects. Right now, I'm diving into learning Go and honing my skills in infrastructure. Always up for a coding adventure!
+I specialize in backend development, with occasional forays into full-stack projects. Currently, I’m strengthening my skills in data analysis and artificial intelligence to build more powerful and scalable applications.
 
 Looking forward to connecting and sharing experiences with fellow tech enthusiasts. If you have any cool projects or ideas, let's chat!
 
